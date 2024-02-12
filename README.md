@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Khandare</h1>
-<h3 align="center">Passionate Computer Science Engineering Student</h3>
+<h3 align="center">Computer Science Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshkh15&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshkh15" /> </p>
 
